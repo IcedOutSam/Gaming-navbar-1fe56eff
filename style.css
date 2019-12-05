@@ -1,0 +1,19 @@
+.navbar{
+    background: #494848;
+    color: white;
+
+    
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: space-around;
+    
+/*    display: block;*/
+    
+}
+
+.navbar:hover{
+    background: black;
+    box-shadow: 8px 8px 8px rgba(0, 0, 0, 0.5);
+}
